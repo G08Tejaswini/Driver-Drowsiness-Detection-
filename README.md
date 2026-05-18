@@ -42,6 +42,18 @@ Developed as part of an entrepreneurship class project.
 5. Triggers an alert when drowsiness is detected
 
 ---
+## 📸 Output Screenshots
+
+### Face Detected — Eyes Open
+![Eyes Open](screenshots/Face_detected.png)
+
+### Eyes Closed Detection
+![Eyes Closed](screenshots/Eyes_closed_for_Long.png)
+
+### No Face Detected
+![No Face](screenshots/No_face.png)
+
+---
 
 ## 📂 Project Structure
 
