@@ -28,9 +28,8 @@ Developed as part of an entrepreneurship class project.
 
 - Python
 - OpenCV
-- dlib
+- MediaPipe
 - NumPy
-- imutils
 
 ---
 
