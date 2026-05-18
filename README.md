@@ -48,13 +48,14 @@ Developed as part of an entrepreneurship class project.
 ```txt
 driver-drowsiness-detection/
 │
-├── main.py
-├── requirements.txt
+├── models/
+│   └── face_landmarker.task
+│
 ├── screenshots/
-├── assets/
+├── drowsiness_detection.py
+├── requirements.txt
 └── README.md
 ```
-
 ---
 
 ## 📚 Learning Outcomes
@@ -78,8 +79,11 @@ Through this project, I explored:
 
 ## ⚙️ Installation
 
-### Run the Project
-
 ```bash
+pip install -r requirements.txt
 python main.py
 ```
+
+The required MediaPipe model file is already included in the repository under the `models/` folder.
+
+
